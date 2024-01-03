@@ -1,19 +1,16 @@
-# Hello, world! 👋 I'm Praveen Kumar (PK)
+# Hello, world! 👋 I'm Jaya Krishna
 
-🛠 **Senior AI Architect** | 🎤 **Educator** | ✍️ **Tech Blogger**
+🛠 **Python Developer** | 🎤 **Software Developer** | ✍️ **Tech Enthusiast**
 
-I'm based in the heart of innovation, **Silicon Valley of India - Bengaluru**. Building scalable AI products, diving deep into natural language processing, speech recognition, and computer vision, and sharing my knowledge with the world is what I live for. Let's make the tech community stronger, together!
+I'm based in **Vijayawada**. Building different projects and web applications within my skillset.
 
 ## :new: What's New I am working on?
 
-I am recently working on LLM powered local hosted applications such as chatbots, PDF Parsers, Search engines, and Lang Chain. :bird: 
-
+I am recently working on .NET Core, .NET Frameworks and Building projects on .NET
 ## 🌐 Connect with me:
-- :man: [Portfolio](https://inboxpraveen.github.io)
-- 🐦 [Twitter](https://twitter.com/inboxpraveen)
-- 📝 [LinkedIn](https://linkedin.com/in/praveen-kumar-inbox)
-- 🎥 [YouTube](https://www.youtube.com/@ai_for_bharat)
-- :writing_hand: [Medium Blogs](https://medium.com/@inboxpraveen)
+- :man: [Portfolio](https://jayakrishnaprofile.onrender.com)
+- 🐦 [Twitter](https://twitter.com/)
+- 📝 [LinkedIn](https://linkedin.com/in/)
 
 ## 🚀 What I Do:
 - 🔍 **Natural Language Processing:** Unlocking the power of text.
