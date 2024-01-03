@@ -9,8 +9,8 @@ I'm based in **Vijayawada**. Building different projects and web applications wi
 I am recently working on .NET Core, .NET Frameworks and Building projects on .NET
 ## 🌐 Connect with me:
 - :man: [Portfolio](https://jayakrishnaprofile.onrender.com)
-- 🐦 [Twitter](https://twitter.com/)
-- 📝 [LinkedIn](https://linkedin.com/in/)
+- 🐦 [LeetCode](https://leetcode.com/jayakrishna_fyi/)
+- 📝 [CodeChef](https://www.codechef.com/users/thisiskrishna9)
 
 ## 🚀 What I Do:
 - 🔍 **Python Developer** Implementation and Building of projects with Different Frameworks from Python.
