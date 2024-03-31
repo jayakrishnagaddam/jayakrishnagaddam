@@ -22,9 +22,8 @@ I am recently working on .NET Core, .NET Frameworks and Building projects on .NE
   **Check my Projects Here...**(https://github.com/jayakrishnagaddam?tab=repositories)
 
 ## 📊 This week's stats:
-![My GItHub Stats](<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnagaddam&show_icons=true&locale=en&layout=compact" alt="saiharish820" />
-)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishnagaddam&count_private=true&show_icons=true&theme=radical)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnagaddam&show_icons=true&locale=en&layout=compact" alt="saiharish820" /></p>
 
 ---
 
