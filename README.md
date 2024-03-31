@@ -20,6 +20,7 @@ I am recently working on .NET Core, .NET Frameworks and Building projects on .NE
 
 
   **Check my Projects Here...**(https://github.com/jayakrishnagaddam?tab=repositories)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharish820&show_icons=true&locale=en&layout=compact" alt="saiharish820" /></p>
 
 ## 📊 This week's stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishnagaddam&count_private=true&show_icons=true&theme=radical)
