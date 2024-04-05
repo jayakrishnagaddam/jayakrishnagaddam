@@ -6,7 +6,7 @@ I'm based in **Vijayawada**. Building different projects and web applications wi
 
 ## :new: What's New I am working on?
 
-I am recently working on .NET Core, .NET Frameworks and Building projects on .NET
+I am currenty working on Pytorch, OpenCV and TensorFlow and Building projects.
 ## 🌐 Connect with me:
 - :man: [Portfolio](https://jayakrishnaprofile.onrender.com)
 - 🐦 [LeetCode](https://leetcode.com/jayakrishna_fyi/)
