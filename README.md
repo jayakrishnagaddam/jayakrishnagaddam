@@ -27,4 +27,8 @@ I am currenty working on Pytorch, OpenCV and TensorFlow and Building projects.
 
 ---
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 ⭐ Remember, the world is better when we share knowledge. Let's connect and inspire others!
