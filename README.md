@@ -22,9 +22,9 @@ I am currenty working on Pytorch, OpenCV and TensorFlow and Building projects.
   **Check my Projects Here...**(https://github.com/jayakrishnagaddam?tab=repositories)
 
 ## 📊 This week's stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishnagaddam&count_private=true&show_icons=true&theme=radical)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnagaddam&show_icons=true&locale=en&layout=compact" alt="saiharish820" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnagaddam&show_icons=true&locale=en&layout=compact" /></p>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishnagaddam&count_private=true&show_icons=true&theme=radical)
 ---
 
 ⭐ Remember, the world is better when we share knowledge. Let's connect and inspire others!
