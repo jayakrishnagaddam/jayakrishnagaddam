@@ -27,6 +27,12 @@ I am currenty working on Pytorch, OpenCV and TensorFlow and Building projects.
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishnagaddam&count_private=true&show_icons=true&theme=radical)
 ---
 
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
 ⭐ Remember, the world is better when we share knowledge. Let's connect and inspire others!
 
 
