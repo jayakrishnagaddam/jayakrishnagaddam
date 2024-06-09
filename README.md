@@ -1,6 +1,6 @@
 # Hello, world! 👋 I'm Jaya Krishna
 
-🛠 **Python Developer** | 🎤 **Software Developer** | ✍️ **Tech Enthusiast**
+🛠 **Python Developer** | 🎤 **Software Developer** | ✍️ **AI & Tech Enthusiast**
 
 I'm based in **Vijayawada**. Building different projects and web applications within my skillset.
 
