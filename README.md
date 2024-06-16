@@ -8,7 +8,7 @@ I'm based in **Vijayawada**. Building different projects and web applications wi
 
 I am currenty working on Pytorch, OpenCV and TensorFlow and Building projects.
 ## 🌐 Connect with me:
-- :man: [Portfolio](https://jayakrishnaprofile.onrender.com)
+- :man: [Portfolio](https://jkportfolio.onrender.com)
 - 🐦 [LeetCode](https://leetcode.com/jayakrishna_fyi/)
 - 📝 [CodeChef](https://www.codechef.com/users/thisiskrishna9)
 
